@@ -1,0 +1,11 @@
+@import '_base';
+@import '_mixin';
+@import '_home';
+@import '_modal';
+@import '_check';
+
+.app{
+  display: flex;
+}
+
+
